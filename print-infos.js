@@ -14,3 +14,4 @@ const funcionario = {
 }
 
 console.log(funcionario.cpf.substring(0, 3));
+// substring() é uma função que oculta os elementos a partir de um índice
