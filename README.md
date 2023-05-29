@@ -6,8 +6,7 @@
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
         <a href="#tecnologias">Tecnologias</a> •
-        <a href="#certificado">Certificado</a> •
-        <a href="#autor">Autor</a>
+        <a href="#certificado">Certificado</a>
     </p>
 </main>
 
@@ -54,11 +53,4 @@
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
     <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/6fc47ba7-7bc2-4d7c-bab9-5b6e9fb2946c">aqui</a>.</p>
-    <img src="Certificado de Conclusão JavaScript Objetos.jpg">
-</section>
-
-<section id="autor">
-    <h2 style="font-size: 1.25rem;">Autor</h2>
-    <img src="foto.jpg" width="170">
-    <p style="text-align: justify;"><i>Emanuel Marcos (E.Barboza)<i></p>
 </section>
